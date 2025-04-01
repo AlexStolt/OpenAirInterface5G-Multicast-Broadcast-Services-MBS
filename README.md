@@ -1,10 +1,11 @@
 
 
 # OpenAirInterface5G MBS
-This project is based on the official OpenAirInterface5G tag: ba2d7aad18788c2572cb0b96488dc96ef4089c83)
+This project is based on the official OpenAirInterface5G tag: ba2d7aad18788c2572cb0b96488dc96ef4089c83
 
 ## Build
-1. [RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/-/blob/develop/openair2/E2AP/README.md): ```sudo source openairinterface5g-dev/cmake_targets/build_oai -I --phy_simulators -w SIMU --nrUE --gNB```
+1. [RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/-/blob/develop/openair2/E2AP/README.md)
+   * ```sudo source openairinterface5g-dev/cmake_targets/build_oai -I --phy_simulators -w SIMU --nrUE --gNB```
 
 ## Deploy
 1. Deploy the [Core Network](https://gitlab.eurecom.fr/oai/openairinterface5g/-/tree/develop/ci-scripts/yaml_files/5g_rfsimulator?ref_type=heads) with: ```source experiments.sh cn```
