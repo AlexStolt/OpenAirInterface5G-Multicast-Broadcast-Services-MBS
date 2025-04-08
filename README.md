@@ -1,7 +1,8 @@
 
 
 # OpenAirInterface5G MBS
-This project is based on the official OpenAirInterface5G tag: ba2d7aad18788c2572cb0b96488dc96ef4089c83
+This project is the first-ever implementation of Multicast and Broadcast Services (MBS) in the OpenAirInterface5G.
+* It is based on the official OpenAirInterface5G tag: ba2d7aad18788c2572cb0b96488dc96ef4089c83
 
 ## Build
 1. [RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/-/blob/develop/openair2/E2AP/README.md)
