@@ -1,0 +1,7 @@
+Distribution,UE Count,Retransmissions,Channel Quality,Transmission Mode,Average Throughput (Mbps),Throughput STD (Mbps),Average Packet Loss (%),Packet Loss STD (%)
+realistic,4,no-harq,multicast,APPROACH_1,8.84,1.02,1.24,0.89
+realistic,4,no-harq,multicast,APPROACH_2,14.68,3.09,38.61,21.13
+realistic,4,harq,multicast,APPROACH_1,8.18,0.47,1.29,0.73
+realistic,4,harq,multicast,APPROACH_2,3.29,0.89,39.67,20.97
+realistic,8,harq,multicast,APPROACH_1,4.56,0.3,1.26,0.92
+realistic,8,harq,multicast,APPROACH_2,0.64,0.33,38.77,22.46
